@@ -1,3 +1,4 @@
+// React video app core
 import React, { useState } from 'react';
 
 export default function Home() {
